@@ -4,8 +4,8 @@ This is a simple web-based code editor application where you can write and test 
 
 ### 🌈 Features
 
-✨ Live preview of your code
-🌈 Syntax highlighting for HTML, CSS, and JavaScript
+-  Live preview of your code
+-  Syntax highlighting for HTML, CSS, and JavaScript
 
 ### ✨ Usage
 
